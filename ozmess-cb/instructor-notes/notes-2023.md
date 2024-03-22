@@ -55,3 +55,51 @@ We went to Cuxhaven which is about 2 hours from Hamburg Hbf by train, and a litt
 - **What worked well (profiling):** The Sea & Sun CTD was used for profiles every 30 minutes, which showed stratification during flood.  In between profiles, it was tied off to be near the surface of the water to provide a time series.  This was an added bonus since the students weren't able to tie two microcats at the right depths to make a "dangling" mooring.
 
 - **Tips on timing (tides):** The data were interesting especially with having a low-tide in the middle of the record (high might have been interesting also, but ebb-only or flood-only would've been less likely to be interesting).  During flood, there was noticable stratification with saltwater coming in at depth (from the 30-minute profiles) and freshwater at the surface.  Differences between profiles were large, so possibly a more frequent interval would've been useful.
+
+## Presentations
+
+- The students presented preliminary results already on the first Friday (after lab day on Tuesday, salinometry Wednesday afternoon, and analysis Thursday).  This turned out to be quite useful since it provided a stopping point at which they needed to have an idea of what their data meant.  It also provided a timepoint for reflection on the course so far and led to the students suggesting a second lab day.
+
+- The presentations on the final Friday were a good discussion point to see what the final conclusions were (although firm conclusions were not made).  
+
+
+## Experiment protocols
+
+- The 6 students were divided by drawing numbers into two groups of 3 for the two lab experiments.  Group 1 wrote the protocol for experiment 1, which was carried out by group 2.  Group 2 wrote the protocol for experiment 2, which was carried out by group 1.
+
+- **What worked well:** Having the students write the protocl for someone else turned out to be a useful exercise.  They had to be more clear in their instructions and think things through, possibly more thoroughly than if they knew they would carry out the experiment themselves.  It perhaps led to extra experiments being carried out that weren't strictly necessary (and a slight imbalance in work between students) but overall it seemed like an effective teaching choice.
+
+- **What could be improved:** Perhaps there wasn't enough thought into caution in carrying out the experiment.  This is perhaps something that can be impressed upon the students with clear instructions - about 
+
+- **Definitely to change:** Waters should be mixed the night before, and not so many varieties used.  
+
+- **Consider changing:** Use smaller (vertical) buckets with the sensors pointed downwards at the bottom of the bucket.  Then less water is needed and possibly it's easier to keep it mixed.
+
+- **Ideas for future:** Try an experiment using 3 types of salt?  Create waters about 35 psu using the weight method.  Check the water with multiple instruments for at least 20 minutes, simultaneous measurements with multiple sensors if possible.  Unclear what stirring method would be best.  Also if an RBR concerto were used, the tanks would still need to be large to keep the sensing area clear.
+
+- **Ideas for future:** Try an experiment using 3 very different salinities (e.g., 10, 30 and 50).  Evaluate the offset between the refractometer-measured salinity and a CTD as a function of salinity?  The 50 salinity water could be diluted (with carefully measured water) in order to run samples in the salinometer around 30-35 [psu].
+
+- **Ideas for future:**  Consider adding a small loop to the Sea and Sun to avoid it being lifted by the data cable.
+
+
+## Analysis
+
+- Students used python to create plots from the data and carry out analyses.  
+
+- **What worked well:** Using the gitlab repository, students could view each other's code and take useful snippets.
+
+- **What worked OK:** Students were at different levels of experience with python; however most/all students improved their own python ability during the analysis sessions.  It was perhaps a little difficult to organise who would do what, and avoid everyone just writing code to make the same type of plots, but given the limited time, this was reasonably successful.
+
+- **What worked well:** Individual students gained experience with various aspects of data manipulation.  Some in `xarray` or plotting, some with creating composites and slicing/dicing data by thresholds, manipulating time, creating plots with multiple y-axes, fitting an exponential, creating a box plot, calculating the mean and standard error.  Overall the selection of work done across the group was very good.  With more time, it may have been possible to get more students up-to-speed; but this is probably best done in a different course.
+
+## Reports
+
+- In the end, it's possible there was too much writing.  But in writing the reports, the students had to think through all the steps of their work - so it's still essential.  But possibly the groups should be more divided for the actual work?
+
+- LaTex was used, which was added benefit.
+
+## For next year
+
+- The lab experiments are fairly straightforward to run, and can be done with the Sea & Sun CTD, optical refractometer, handheld conductivity, and (maybe) salinometer.  The microCAT isn't strictly necessary, though for students joining the Seepraktikum, the hands-on use can be nice.
+
+- The field excursion added one additional dimension that students don't see during the Seepraktikum -- variations in depth and time by making repeat profiles every 30 minutes at the same location.  This becomes more like a tall mooring.  But it's unclear whether the additional benefit is worth it.  An alternative would be to swap this component with something like measuring salinity in the ice chamber or going to the Wind-Wave tank (which the students requested).
