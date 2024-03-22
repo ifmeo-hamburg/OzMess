@@ -8,19 +8,21 @@ parts:
   chapters:
   - file: overview/catalog-listing
   - file: overview/schedule
-  sections:
-    - lecture/overview-1
-    - file: lecture/overview-1
-    - file: lecture/overview-2
-    - file: lecture/overview-3-reading
-    - file: lecture/overview-4-prep
-    - file: lecture/lab-1-overview
+  - file: lecture/overview-1
+    sections:
+      - file: lecture/overview-2
+      - file: lecture/overview-3-reading
+      - file: lecture/overview-4-prep
+  - file: lecture/lab-overview
+    sections:
+      - file: lecture/lab-1-about
 
 - caption: Exercises
   chapters:
   - file: exercise/lab-1-salinometry
   - file: exercise/lab-2-cell-thermal-mass
   - file: exercise/field-1-excursion
+  - file: exercise/assignment-lab
   
 - caption: Resources
   chapters:
