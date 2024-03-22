@@ -13,52 +13,30 @@ kernelspec:
   name: python3
 ---
 
-# Schedule (SuSe24)
+# Schedule (WiSe2324)
 
-- Lectures: Tuesdays **08:15 - 09:45** in Bu53 133 
-- Computer practicals: Tuesdays **10:00 - 11:45** in Bu55 1335 
+- 2 weeks, March 11-22
+- 9:00 - 17:00
 
 
-## Dates + Known deviations
-
-1. 2 April  
-2. 9 April  
-3. 16 April  
-4. 23 April  
-5. 30 April - possible deviation
-6. 7 May  
-7. 14 May  
-- 21 May - No class: Pfingsten
-8. 28 May - Lecture cancelled due to Seepraktikum, computer practicals still on
-9. 4 June - as planned
-10. 11 June - alternate instructor
-11. 18 June  
-12. 25 June 
-13. 2 July
-14. 9 July
-
-## Topics
-
-```{table} Schedule of topics
+```{table} Schedule overview
 :name: week-topics
 
-| Week | Lecture | Practical |
-|---|---|---|
-| 1 |  | |
-| 2 |  | |
-| 3 |  | |
-| 4 |  | |
-| 5 |  | |
-| 6 |  | |
-| 7 |  | |
-| 8 |  | |
-| 9 |  | |
-| 10 |  | |
-| 11 |  | |
-| 12 |  | |
-| 13 |  | |
-| 14 |  | |
+|   | Monday | Tuesday | Wednesday | Thursday | Friday |
+|---|---|---|---|---|---|
+| 1 | Overview  | Lab day | Lab day | Analysis | Field prep |
+| 2 | Field day | Lab day | Lab day | Analysis | Presentations| 
 ```
 
+## Detailed schedule
 
-Where is this table?
+- Monday 11 March: all-day in Bu53 253
+- Tuesday 12 March: all-day in Geom.
+- Wednesday 13 March: afternoon in Geom. (salinometer)
+- Thursday 14 March: Analysis in Bu53 253
+- Friday 15 March: Presentations (lab 1 & 2) and preparation for field experiment.  Equipment needs by 15:00.
+- Monday 18 March: Meet in Cuxhaven at Alte Liebe at 8:30am.  Wrap up science by 17:00.
+- Tuesday 19 March: Lab planning starting at 10:30 in Bu53 253.  In Geom. lab from noon.
+- Wednesday 20 March: Lab day to run new experiments
+- Thursday 21 March: Analysis in Bu53 253.
+- Friday 22 March: Analysis + reports.  Presentations at 14:30.

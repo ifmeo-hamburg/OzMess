@@ -3,7 +3,41 @@
 
 format: jb-book
 root: intro
-chapters:
-- file: markdown
-- file: notebooks
-- file: markdown-notebooks
+parts: 
+- caption: Overview
+  chapters:
+  - file: overview/catalog-listing
+  - file: overview/schedule
+  sections:
+    - lecture/overview-1
+    - file: lecture/overview-1
+    - file: lecture/overview-2
+    - file: lecture/overview-3-reading
+    - file: lecture/overview-4-prep
+    - file: lecture/lab-1-overview
+
+- caption: Exercises
+  chapters:
+  - file: exercise/lab-1-salinometry
+  - file: exercise/lab-2-cell-thermal-mass
+  - file: exercise/field-1-excursion
+  
+- caption: Resources
+  chapters:
+  - file: resource/git
+  - file: resource/python
+  - file: resource/books
+
+- caption: JupyterBook coursebook
+  chapters:
+  - file: build-the-book/getting-started
+  - file: build-the-book/jupyter-book
+  - file: build-the-book/github-pages
+  - file: build-the-book/use-of-tokens
+  - file: build-the-book/regenerating-book
+
+- caption: Basics
+  chapters:
+  - file: content.md 
+  - file: markdown-notebooks.md
+  - file: markdown.md
