@@ -46,5 +46,5 @@ parts:
 - caption: Instructor notes
   chapters:
   - file: instructor-notes/notes-2023 
+  - file: instructor-notes/to-update.md
   - file: instructor-notes/markdown-notebooks.md
-  - file: instructor-notes/markdown.md
