@@ -1,21 +1,16 @@
-# Overview: Lab Experiments
+# Overview: Field experiments
 
 ## Objectives
-- Develop experiments to measure salinity
-- Assess how the principles of measurement for the given instrument affect the accuracy of methods
-- Critically consider limitations based on how the instrument is used
+- Develop an experiment to measure salinity in the field
 
 
 ## Assessment
 - **Participation** is required for planning, execution and reporting on experiments
-- **Reports:** Produce documents for the experimental design and results.  See [assignment details](../exercise/assignment-lab).
+- **Reports:** Produce documents for the experimental design and results.  See [assignment details](../exercise/assignment-field).
 - **Presentation**
 
 ## Available materials (examples)
-- Water, salt, ice
-- Buckets, scales, stirring implements, small bucket, funnel
-- Standard seawater 30 and 35 psu from [IAPSO Standard Seawater](https://osil.com/salinity-measurement-standards/)
-- Computer w/equipment software
+- Life vests, rope, other?
 
 ## Available instruments:
 - Handheld thermometer, conductivity sensor

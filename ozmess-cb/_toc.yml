@@ -16,6 +16,10 @@ parts:
   - file: lecture/lab-overview
     sections:
       - file: lecture/lab-1-about
+      - file: lecture/lab-2-about
+  - file: lecture/field-overview
+    sections:
+      - file: lecture/field-about
 
 - caption: Exercises
   chapters:
@@ -23,6 +27,7 @@ parts:
   - file: exercise/lab-2-cell-thermal-mass
   - file: exercise/field-1-excursion
   - file: exercise/assignment-lab
+  - file: exercise/assignment-field
   
 - caption: Resources
   chapters:
@@ -38,8 +43,8 @@ parts:
   - file: build-the-book/use-of-tokens
   - file: build-the-book/regenerating-book
 
-- caption: Basics
+- caption: Instructor notes
   chapters:
-  - file: content.md 
-  - file: markdown-notebooks.md
-  - file: markdown.md
+  - file: instructor-notes/notes-2023 
+  - file: instructor-notes/markdown-notebooks.md
+  - file: instructor-notes/markdown.md

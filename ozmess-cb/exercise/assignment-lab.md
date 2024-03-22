@@ -1,4 +1,4 @@
-# Lab 1 & 2: Assignment
+# Assignment: Lab 1 & 2
 
 ```{admonition} Deadline
 Tuesday, 14 March at 23:59
