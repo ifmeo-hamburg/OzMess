@@ -14,3 +14,8 @@
 - Consider adding a few python scripts into the online markdown to give examples for how to handle data
 
 - May need some additional how-tos for using the instruments (quickstart sheets?)
+- Link from somewhere else to this page (min moodle)?
+
+## Git
+
+- Later, see about whether using github is better (or stick with gitlab)
